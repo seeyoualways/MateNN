@@ -1,7 +1,7 @@
 # MateNN
 
 ![Python 3.14.4](https://img.shields.io/badge/-Python-FF0000?style=python&logo=python)
-![Bash](https://img.shields.io/badge/-bash-00FF00?style=bash&logo=Bash)
+![Bash](https://img.shields.io/badge/-bash-0000FF?style=bash&logo=Bash)
 ## MateNN this is my open source ai bot. You can ask it questions, chat with it and other similar thinks... For now, it's in the development stage, but i will improve it over time.
 _____
 ***Guide for installing:***
