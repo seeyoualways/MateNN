@@ -26,6 +26,12 @@ for a Debian/Ubuntu linux:
 ```./debu.sh```
 
 
+for a Termux:
+
+```sudo chmod +x termux.sh```
+
+```./termux.sh```
+
 2. Program launch
 
 ```python MateNN.py```
@@ -43,6 +49,11 @@ for a Debian/Ubuntu linux:
 - [x] Linux
 
 - [x] Android
+
+
+![Pay BTC](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=bitcoin:bc1q8xf3w2lvng24gae8y9t5l5vgcjp2h959ykk4fh, "BTC: bc1q8xf3w2lvng24gae8y9t5l5vgcjp2h959ykk4fh <3")
+![Pay ETH](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=ethereum:0x60E926E0e6A44434DD43F200B93a924754133106, "ETH: 0x60E926E0e6A44434DD43F200B93a924754133106 <3")
+
 
 ![mygif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlzaWxvYmFnbmtkc25yYTAweXRlOGpnZTBqczB6MmRxNmxjOXR6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tptFQ8QAJYYvu/giphy.gif)
 
