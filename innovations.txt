@@ -9,3 +9,5 @@ bad: wrong, faulty.
 05.09.2026, 2 PM
 Because of a bug i found, i had to rewrite the entire code(
 
+05.09.2026, 4:40 PM
+did be add the if-clause for a fun-answer by user( i will write today and for others<3)
