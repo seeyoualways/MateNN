@@ -6,3 +6,6 @@ bad: bad, poor, awful, lousy.
 05.08.2026, 10 PM
 bad: wrong, faulty.
 
+05.09.2026, 2 PM
+Because of a bug i found, i had to rewrite the entire code(
+
