@@ -10,6 +10,8 @@ if b == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif b == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "gooD": input("That's Cool! Press Enter... ")
 c = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -17,6 +19,8 @@ if c == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif c == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "goOd": input("That's Cool! Press Enter... ")
 d = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -24,6 +28,8 @@ if d == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif d == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "goOD": input("That's Cool! Press Enter... ")
 e = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -31,6 +37,8 @@ if e == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif e == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "gOod": input("That's Cool! Press Enter... ")
 f = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -38,6 +46,8 @@ if f == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif f == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "gOoD": input("That's Cool! Press Enter... ")
 g = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -45,6 +55,8 @@ if g == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif g == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "gOOd": input("That's Cool! Press Enter... ")
 h = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -52,6 +64,8 @@ if h == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif h == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "gOOD": input("That's Cool! Press Enter... ")
 i = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -59,6 +73,8 @@ if i == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif i == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Good": input("That's Cool! Press Enter... ")
 j = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -66,6 +82,8 @@ if j == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif j == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GooD": input("That's Cool! Press Enter... ")
 k = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -73,6 +91,8 @@ if k == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif k == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GoOd": input("That's Cool! Press Enter... ")
 l = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -80,6 +100,8 @@ if l == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif l == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GoOD": input("That's Cool! Press Enter... ")
 m = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -87,6 +109,8 @@ if m == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif m == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GOod": input("That's Cool! Press Enter... ")
 n = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -94,6 +118,8 @@ if n == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif n == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GOoD": input("That's Cool! Press Enter... ")
 o = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -101,6 +127,8 @@ if o == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif o == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GOOd": input("That's Cool! Press Enter... ")
 p = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -108,6 +136,8 @@ if p == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif p == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "GOOD": input("That's Cool! Press Enter... ")
 r = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -115,6 +145,8 @@ if r == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif r == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #nice
@@ -125,6 +157,8 @@ if s == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif s == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "nicE": input("That's Cool! Press Enter... ")
 t = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -132,6 +166,8 @@ if t == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif t == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "niCe": input("That's Cool! Press Enter... ")
 q = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -139,6 +175,8 @@ if q == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif q == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "niCE": input("That's Cool! Press Enter... ")
 u = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -146,6 +184,8 @@ if u == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif u == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "nIce": input("That's Cool! Press Enter... ")
 v = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -153,6 +193,8 @@ if v == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif v == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "nIcE": input("That's Cool! Press Enter... ")
 w = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -160,6 +202,8 @@ if w == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif w == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "nICe": input("That's Cool! Press Enter... ")
 x = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -167,6 +211,8 @@ if x == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif x == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "nICE": input("That's Cool! Press Enter... ")
 y = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -174,6 +220,8 @@ if y == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif y == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Nice": input("That's Cool! Press Enter... ")
 z = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -181,6 +229,8 @@ if z == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif z == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NicE": input("That's Cool! Press Enter... ")
 A = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -188,6 +238,8 @@ if A == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif A == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif A == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif A == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif A == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif A == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NiCe": input("That's Cool! Press Enter... ")
 B = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -195,6 +247,8 @@ if B == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif B == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif B == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif B == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif B == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif B == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NiCE": input("That's Cool! Press Enter... ")
 C = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -202,6 +256,8 @@ if C == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif C == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif C == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif C == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif C == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif C == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NIce": input("That's Cool! Press Enter... ")
 D = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -209,6 +265,8 @@ if D == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif D == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif D == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif D == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif D == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif D == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NIcE": input("That's Cool! Press Enter... ")
 E = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -216,6 +274,8 @@ if E == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif E == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif E == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif E == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif E == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif E == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NICe": input("That's Cool! Press Enter... ")
 F = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -223,6 +283,8 @@ if F == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif F == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif F == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif F == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif F == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif F == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "NICE": input("That's Cool! Press Enter... ")
 G = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -230,6 +292,8 @@ if G == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif G == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif G == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif G == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif G == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif G == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #cool
@@ -240,6 +304,8 @@ if H == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif H == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif H == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif H == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif H == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif H == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "cooL": input("That's Cool! Press Enter... ")
 I = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -247,6 +313,8 @@ if I == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif I == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif I == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif I == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif I == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif I == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "coOl": input("That's Cool! Press Enter... ")
 J = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -254,6 +322,8 @@ if J == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif J == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif J == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif J == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif J == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif J == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "coOL": input("That's Cool! Press Enter... ")
 K = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -261,6 +331,8 @@ if K == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif K == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif K == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif K == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif K == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif K == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "cOol": input("That's Cool! Press Enter... ")
 L = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -268,6 +340,8 @@ if L == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif L == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif L == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif L == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif L == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif L == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "cOoL": input("That's Cool! Press Enter... ")
 M = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -275,6 +349,8 @@ if M == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif M == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif M == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif M == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif M == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif M == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "cOOl": input("That's Cool! Press Enter... ")
 N = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -282,6 +358,8 @@ if N == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif N == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif N == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif N == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif N == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif N == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "cOOL": input("That's Cool! Press Enter... ")
 O = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -289,6 +367,8 @@ if O == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif O == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif O == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif O == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif O == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif O == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Cool": input("That's Cool! Press Enter... ")
 P = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -296,6 +376,8 @@ if P == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif P == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif P == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif P == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif P == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif P == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "CooL": input("That's Cool! Press Enter... ")
 Q = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -303,6 +385,8 @@ if Q == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif Q == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif Q == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif Q == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif Q == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif Q == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "CoOl": input("That's Cool! Press Enter... ")
 R = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -310,6 +394,8 @@ if R == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif R == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif R == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif R == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif R == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif R == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "CoOL": input("That's Cool! Press Enter... ")
 S = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -317,6 +403,8 @@ if S == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif S == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif S == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif S == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif S == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif S == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "COol": input("That's Cool! Press Enter... ")
 T = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -324,6 +412,8 @@ if T == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif T == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif T == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif T == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif T == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif T == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "COoL": input("That's Cool! Press Enter... ")
 U = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -331,6 +421,8 @@ if U == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif U == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif U == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif U == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif U == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif U == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "COOl": input("That's Cool! Press Enter... ")
 V = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -338,6 +430,8 @@ if V == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif V == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif V == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif V == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif V == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif V == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "COOL": input("That's Cool! Press Enter... ")
 W = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -345,6 +439,8 @@ if W == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif W == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif W == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif W == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif W == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif W == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #fun
@@ -355,6 +451,8 @@ if X == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif X == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif X == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif X == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif X == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif X == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
  
 elif a == "fuN": input("That's Cool! Press Enter... ")
 Y = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -362,6 +460,8 @@ if Y == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif Y == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif Y == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif Y == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif Y == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif Y == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fUn": input("That's Cool! Press Enter... ")
 Z = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -369,6 +469,8 @@ if Z == "What alphabet is it?": print("alphabet is a set of letters used for wri
 elif Z == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif Z == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif Z == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif Z == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif Z == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fUN": input("That's Cool! Press Enter... ")
 a1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -376,6 +478,8 @@ if a1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Fun": input("That's Cool! Press Enter... ")
 b1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -383,6 +487,8 @@ if b1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FuN": input("That's Cool! Press Enter... ")
 c1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -390,6 +496,8 @@ if b1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FUn": input("That's Cool! Press Enter... ")
 d1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -397,6 +505,8 @@ if d1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FUN": input("That's Cool! Press Enter... ")
 e1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -404,6 +514,8 @@ if e1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #fine
@@ -414,6 +526,8 @@ if f1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "finE": input("That's Cool! Press Enter... ")
 g1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -421,6 +535,8 @@ if g1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fiNe": input("That's Cool! Press Enter... ")
 h1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -428,6 +544,8 @@ if h1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fiNE": input("That's Cool! Press Enter... ")
 i1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -435,6 +553,8 @@ if i1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fIne": input("That's Cool! Press Enter... ")
 j1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -442,6 +562,8 @@ if j1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fInE": input("That's Cool! Press Enter... ")
 k1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -449,6 +571,8 @@ if k1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fINe": input("That's Cool! Press Enter... ")
 l1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -456,6 +580,8 @@ if l1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fINE": input("That's Cool! Press Enter... ")
 m1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -463,6 +589,8 @@ if m1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Fine": input("That's Cool! Press Enter... ")
 n1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -470,6 +598,8 @@ if n1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FinE": input("That's Cool! Press Enter... ")
 o1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -477,6 +607,8 @@ if o1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FiNe": input("That's Cool! Press Enter... ")
 p1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -484,6 +616,8 @@ if p1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif p1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FiNE": input("That's Cool! Press Enter... ")
 q1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -491,6 +625,8 @@ if q1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FIne": input("That's Cool! Press Enter... ")
 r1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -498,6 +634,8 @@ if r1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif r1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FInE": input("That's Cool! Press Enter... ")
 s1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -505,6 +643,8 @@ if s1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif s1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FINe": input("That's Cool! Press Enter... ")
 t1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -512,6 +652,8 @@ if t1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif t1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FINE": input("That's Cool! Press Enter... ")
 u1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -519,6 +661,8 @@ if u1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif u1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif u1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 #Bad fillings
 
@@ -530,6 +674,8 @@ if v1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif v1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "baD": input("Oh, can you tell me what happend?\n>>>")
 w1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -537,6 +683,8 @@ if w1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif w1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "bAd": input("Oh, can you tell me what happend?\n>>>")
 x1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -544,6 +692,8 @@ if x1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif x1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "bAD": input("Oh, can you tell me what happend?\n>>>")
 y1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -551,6 +701,8 @@ if y1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif y1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Bad": input("Oh, can you tell me what happend?\n>>>")
 z1 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -558,6 +710,8 @@ if z1 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif z1 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z1 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z1 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z1 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z1 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "BaD": input("Oh, can you tell me what happend?\n>>>")
 a2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -565,6 +719,8 @@ if a2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "BAd": input("Oh, can you tell me what happend?\n>>>")
 b2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -572,6 +728,8 @@ if b2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "BAD": input("Oh, can you tell me what happend?\n>>>")
 c2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -579,6 +737,8 @@ if c2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #poor: not good quality
@@ -589,6 +749,8 @@ if d2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "pooR": input("Oh, can you tell me what happend?\n>>>")
 e2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -596,6 +758,8 @@ if e2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "poOr": input("Oh, can you tell me what happend?\n>>>")
 f2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -603,6 +767,8 @@ if f2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "poOR": input("Oh, can you tell me what happend?\n>>>")
 g2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -610,6 +776,8 @@ if g2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "pOor": input("Oh, can you tell me what happend?\n>>>")
 h2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -617,6 +785,8 @@ if h2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "pOoR": input("Oh, can you tell me what happend?\n>>>")
 i2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -624,6 +794,8 @@ if i2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "pOOr": input("Oh, can you tell me what happend?\n>>>")
 j2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -631,6 +803,8 @@ if j2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "pOOR": input("Oh, can you tell me what happend?\n>>>")
 k2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -638,6 +812,8 @@ if k2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Poor": input("Oh, can you tell me what happend?\n>>>")
 l2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -645,6 +821,8 @@ if l2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "PooR": input("Oh, can you tell me what happend?\n>>>")
 m2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -652,6 +830,8 @@ if m2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "PoOr": input("Oh, can you tell me what happend?\n>>>")
 n2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -659,6 +839,8 @@ if n2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "PoOR": input("Oh, can you tell me what happend?\n>>>")
 o2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -666,6 +848,8 @@ if o2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "POor": input("Oh, can you tell me what happend?\n>>>")
 p2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -673,6 +857,8 @@ if p2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif p2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "POoR": input("Oh, can you tell me what happend?\n>>>")
 q2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -680,6 +866,8 @@ if q2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "POOr": input("Oh, can you tell me what happend?\n>>>")
 r2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -687,6 +875,8 @@ if r2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif r2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "POOR": input("Oh, can you tell me what happend?\n>>>")
 s2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -694,6 +884,8 @@ if s2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif s2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #awful: very bad
@@ -704,6 +896,8 @@ if t2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif t2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awfuL": input("Oh, can you tell me what happend?\n>>>")
 u2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -711,6 +905,8 @@ if u2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif u2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif u2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awfUl": input("Oh, can you tell me what happend?\n>>>")
 v2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -718,6 +914,8 @@ if v2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif v2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awfUL": input("Oh, can you tell me what happend?\n>>>")
 w2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -725,6 +923,8 @@ if w2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif w2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awFul": input("Oh, can you tell me what happend?\n>>>")
 x2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -732,6 +932,8 @@ if x2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif x2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awFuL": input("Oh, can you tell me what happend?\n>>>")
 y2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -739,6 +941,8 @@ if y2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif y2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awFUl": input("Oh, can you tell me what happend?\n>>>")
 z2 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -746,6 +950,8 @@ if z2 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif z2 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z2 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z2 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z2 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z2 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "awFUL": input("Oh, can you tell me what happend?\n>>>")
 a3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -753,6 +959,8 @@ if a3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWful": input("Oh, can you tell me what happend?\n>>>")
 b3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -760,6 +968,8 @@ if b3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWfuL": input("Oh, can you tell me what happend?\n>>>")
 c3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -767,6 +977,8 @@ if c3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWfUL": input("Oh, can you tell me what happend?\n>>>")
 d3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -774,6 +986,8 @@ if d3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWFul": input("Oh, can you tell me what happend?\n>>>")
 e3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -781,6 +995,8 @@ if e3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWFuL": input("Oh, can you tell me what happend?\n>>>")
 f3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -788,6 +1004,8 @@ if f3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWFUl": input("Oh, can you tell me what happend?\n>>>")
 g3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -795,6 +1013,8 @@ if g3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "aWFUL": input("Oh, can you tell me what happend?\n>>>")
 h3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -802,6 +1022,8 @@ if h3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Awful": input("Oh, can you tell me what happend?\n>>>")
 i3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -809,6 +1031,8 @@ if i3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwfuL": input("Oh, can you tell me what happend?\n>>>")
 j3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -816,6 +1040,8 @@ if j3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwfUl": input("Oh, can you tell me what happend?\n>>>")
 k3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -823,6 +1049,8 @@ if k3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwfUL": input("Oh, can you tell me what happend?\n>>>")
 l3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -830,6 +1058,8 @@ if l3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwFul": input("Oh, can you tell me what happend?\n>>>")
 m3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -837,6 +1067,8 @@ if m3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwFuL": input("Oh, can you tell me what happend?\n>>>")
 n3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -844,6 +1076,8 @@ if n3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwFUl": input("Oh, can you tell me what happend?\n>>>")
 o3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -851,6 +1085,8 @@ if o3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AwFUL": input("Oh, can you tell me what happend?\n>>>")
 p3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -858,6 +1094,8 @@ if p3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif p3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWful": input("Oh, can you tell me what happend?\n>>>")
 q3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -865,6 +1103,8 @@ if q3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWfuL": input("Oh, can you tell me what happend?\n>>>")
 r3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -872,6 +1112,8 @@ if r3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif r3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWfUl": input("Oh, can you tell me what happend?\n>>>")
 s3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -879,6 +1121,8 @@ if s3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif s3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWfUL": input("Oh, can you tell me what happend?\n>>>")
 t3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -886,6 +1130,8 @@ if t3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif t3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWFul": input("Oh, can you tell me what happend?\n>>>")
 u3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -893,6 +1139,8 @@ if u3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif u3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif u3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWFuL": input("Oh, can you tell me what happend?\n>>>")
 v3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -900,6 +1148,8 @@ if v3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif v3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWFUl": input("Oh, can you tell me what happend?\n>>>")
 w3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -907,6 +1157,8 @@ if w3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif w3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "AWFUL": input("Oh, can you tell me what happend?\n>>>")
 x3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -914,6 +1166,8 @@ if x3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif x3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #lousy
@@ -924,6 +1178,8 @@ if y3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif y3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lousY": input("Oh, can you tell me what happend?\n>>>")
 z3 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -931,6 +1187,8 @@ if z3 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif z3 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z3 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z3 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z3 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z3 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "louSy": input("Oh, can you tell me what happend?\n>>>")
 a4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -938,6 +1196,8 @@ if a4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "louSY": input("Oh, can you tell me what happend?\n>>>")
 b4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -945,6 +1205,8 @@ if b4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "loUsy": input("Oh, can you tell me what happend?\n>>>")
 c4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -952,6 +1214,8 @@ if c4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "loUsY": input("Oh, can you tell me what happend?\n>>>")
 d4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -959,6 +1223,8 @@ if d4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "loUSy": input("Oh, can you tell me what happend?\n>>>")
 e4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -966,6 +1232,8 @@ if e4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "loUSY": input("Oh, can you tell me what happend?\n>>>")
 f4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -973,6 +1241,8 @@ if f4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOusy": input("Oh, can you tell me what happend?\n>>>")
 g4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -980,6 +1250,8 @@ if g4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOusY": input("Oh, can you tell me what happend?\n>>>")
 h4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -987,6 +1259,8 @@ if h4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOuSy": input("Oh, can you tell me what happend?\n>>>")
 i4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -994,6 +1268,8 @@ if i4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOuSY": input("Oh, can you tell me what happend?\n>>>")
 j4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1001,6 +1277,8 @@ if j4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOUsy": input("Oh, can you tell me what happend?\n>>>")
 k4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1008,6 +1286,8 @@ if k4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOUsY": input("Oh, can you tell me what happend?\n>>>")
 l4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1015,6 +1295,8 @@ if l4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOUSy": input("Oh, can you tell me what happend?\n>>>")
 m4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1022,6 +1304,8 @@ if m4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "lOUSY": input("Oh, can you tell me what happend?\n>>>")
 n4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1029,6 +1313,8 @@ if n4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Lousy": input("Oh, can you tell me what happend?\n>>>")
 o4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1036,6 +1322,8 @@ if o4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LousY": input("Oh, can you tell me what happend?\n>>>")
 p4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1043,6 +1331,8 @@ if p4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif p4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LouSy": input("Oh, can you tell me what happend?\n>>>")
 q4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1050,6 +1340,8 @@ if q4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LouSY": input("Oh, can you tell me what happend?\n>>>")
 r4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1057,6 +1349,8 @@ if r4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif r4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LoUsy": input("Oh, can you tell me what happend?\n>>>")
 s4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1064,6 +1358,8 @@ if s4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif s4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LoUsY": input("Oh, can you tell me what happend?\n>>>")
 t4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1071,6 +1367,8 @@ if t4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif t4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LoUSy": input("Oh, can you tell me what happend?\n>>>")
 u4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1078,6 +1376,8 @@ if u4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif u4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif u4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LoUSY": input("Oh, can you tell me what happend?\n>>>")
 v4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1085,6 +1385,8 @@ if v4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif v4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOusy": input("Oh, can you tell me what happend?\n>>>")
 w4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1092,6 +1394,8 @@ if w4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif w4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOusY": input("Oh, can you tell me what happend?\n>>>")
 x4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1099,6 +1403,8 @@ if x4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif x4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOuSy": input("Oh, can you tell me what happend?\n>>>")
 y4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1106,6 +1412,8 @@ if y4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif y4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOuSY": input("Oh, can you tell me what happend?\n>>>")
 z4 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1113,6 +1421,8 @@ if z4 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif z4 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z4 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z4 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z4 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z4 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOUsy": input("Oh, can you tell me what happend?\n>>>")
 a5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1120,6 +1430,8 @@ if a5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOUsY": input("Oh, can you tell me what happend?\n>>>")
 b5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1127,6 +1439,8 @@ if b5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOUSy": input("Oh, can you tell me what happend?\n>>>")
 c5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1134,6 +1448,8 @@ if c5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "LOUSY": input("Oh, can you tell me what happend?\n>>>")
 d5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1141,6 +1457,8 @@ if d5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 #wrong: not correct
 
@@ -1150,6 +1468,8 @@ if e5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wronG": input("Oh, can you tell me what happend?\n>>>")
 f5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1157,6 +1477,8 @@ if f5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wroNg": input("Oh, can you tell me what happend?\n>>>")
 g5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1164,6 +1486,8 @@ if g5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wroNG": input("Oh, can you tell me what happend?\n>>>")
 h5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1171,6 +1495,8 @@ if h5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wrOng": input("Oh, can you tell me what happend?\n>>>")
 i5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1178,6 +1504,8 @@ if i5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wrOnG": input("Oh, can you tell me what happend?\n>>>")
 j5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1185,6 +1513,8 @@ if j5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wrONg": input("Oh, can you tell me what happend?\n>>>")
 k5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1192,6 +1522,8 @@ if k5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wrONG": input("Oh, can you tell me what happend?\n>>>")
 l5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1199,6 +1531,8 @@ if l5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wRong": input("Oh, can you tell me what happend?\n>>>")
 m5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1206,6 +1540,8 @@ if m5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wRonG": input("Oh, can you tell me what happend?\n>>>")
 n5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1213,6 +1549,8 @@ if n5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wRoNg": input("Oh, can you tell me what happend?\n>>>")
 o5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1220,6 +1558,8 @@ if o5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wRoNG": input("Oh, can you tell me what happend?\n>>>")
 p5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1227,6 +1567,8 @@ if p5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif p5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wROng": input("Oh, can you tell me what happend?\n>>>")
 q5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1234,6 +1576,8 @@ if q5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wROnG": input("Oh, can you tell me what happend?\n>>>")
 r5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1241,6 +1585,8 @@ if r5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif r5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wRONg": input("Oh, can you tell me what happend?\n>>>")
 s5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1248,6 +1594,8 @@ if s5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif s5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "wRONG": input("Oh, can you tell me what happend?\n>>>")
 t5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1255,6 +1603,8 @@ if t5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif t5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "Wrong": input("Oh, can you tell me what happend?\n>>>")
 u5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1262,6 +1612,8 @@ if u5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif u5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif u5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WronG": input("Oh, can you tell me what happend?\n>>>")
 v5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1269,6 +1621,8 @@ if v5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif v5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WroNg": input("Oh, can you tell me what happend?\n>>>")
 w5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1276,6 +1630,8 @@ if w5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif w5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WroNG": input("Oh, can you tell me what happend?\n>>>")
 x5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1283,6 +1639,8 @@ if x5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif x5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WrOng": input("Oh, can you tell me what happend?\n>>>")
 y5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1290,6 +1648,8 @@ if y5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif y5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WrOnG": input("Oh, can you tell me what happend?\n>>>")
 z5 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1297,6 +1657,8 @@ if z5 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif z5 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z5 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z5 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z5 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z5 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WrONg": input("Oh, can you tell me what happend?\n>>>")
 a6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1304,6 +1666,8 @@ if a6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WrONG": input("Oh, can you tell me what happend?\n>>>")
 b6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1311,6 +1675,8 @@ if b6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WRong": input("Oh, can you tell me what happend?\n>>>")
 c6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1318,6 +1684,8 @@ if c6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WRonG": input("Oh, can you tell me what happend?\n>>>")
 d6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1325,6 +1693,8 @@ if d6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WRoNg": input("Oh, can you tell me what happend?\n>>>")
 e6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1332,6 +1702,8 @@ if e6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WRoNG": input("Oh, can you tell me what happend?\n>>>")
 f6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1339,6 +1711,8 @@ if f6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WROng": input("Oh, can you tell me what happend?\n>>>")
 g6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1346,6 +1720,8 @@ if g6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WROnG": input("Oh, can you tell me what happend?\n>>>")
 h6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1353,6 +1729,8 @@ if h6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WRONg": input("Oh, can you tell me what happend?\n>>>")
 i6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1360,6 +1738,8 @@ if i6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "WRONG": input("Oh, can you tell me what happend?\n>>>")
 j6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1367,6 +1747,8 @@ if j6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 
 #faulty: not working property
@@ -1377,6 +1759,8 @@ if k6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 if k6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faultY": input("Oh, can you tell me what happend?\n>>>")
 l6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1384,6 +1768,8 @@ if l6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faulTy": input("Oh, can you tell me what happend?\n>>>")
 m6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1391,6 +1777,8 @@ if m6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faulTY": input("Oh, can you tell me what happend?\n>>>")
 n6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1398,6 +1786,8 @@ if n6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fauLty": input("Oh, can you tell me what happend?\n>>>")
 o6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1405,6 +1795,8 @@ if o6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fauLtY": input("Oh, can you tell me what happend?\n>>>")
 q6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1412,6 +1804,8 @@ if q6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fauLTy": input("Oh, can you tell me what happend?\n>>>")
 r6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1419,6 +1813,8 @@ if r6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif r6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif r6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif r6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif r6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif r6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fauLTY": input("Oh, can you tell me what happend?\n>>>")
 s6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1426,6 +1822,8 @@ if s6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif s6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif s6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif s6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif s6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif s6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faUlty": input("Oh, can you tell me what happend?\n>>>")
 t6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1433,6 +1831,8 @@ if t6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif t6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif t6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif t6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif t6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif t6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faUltY": input("Oh, can you tell me what happend?\n>>>")
 u6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1440,6 +1840,8 @@ if u6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif u6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif u6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif u6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif u6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif u6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faUlTy": input("Oh, can you tell me what happend?\n>>>")
 v6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1447,6 +1849,8 @@ if v6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif v6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif v6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif v6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif v6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif v6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faUlTY": input("Oh, can you tell me what happend?\n>>>")
 w6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1454,6 +1858,8 @@ if w6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif w6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif w6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif w6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif w6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif w6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faULty": input("Oh, can you tell me what happend?\n>>>")
 x6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1461,6 +1867,8 @@ if x6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif x6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif x6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif x6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif x6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif x6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faULtY": input("Oh, can you tell me what happend?\n>>>")
 y6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1468,6 +1876,8 @@ if y6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif y6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif y6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif y6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif y6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif y6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faULTy": input("Oh, can you tell me what happend?\n>>>")
 z6 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1475,6 +1885,8 @@ if z6 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif z6 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif z6 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif z6 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif z6 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif z6 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "faULTY": input("Oh, can you tell me what happend?\n>>>")
 a7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1482,6 +1894,8 @@ if a7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif a7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif a7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif a7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif a7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif a7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAulty": input("Oh, can you tell me what happend?\n>>>")
 b7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1489,6 +1903,8 @@ if b7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif b7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif b7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif b7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif b7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif b7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAultY": input("Oh, can you tell me what happend?\n>>>")
 c7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1496,6 +1912,8 @@ if c7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif c7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif c7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif c7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif c7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif c7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAulTy": input("Oh, can you tell me what happend?\n>>>")
 d7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1503,6 +1921,8 @@ if d7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif d7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif d7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif d7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif d7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif d7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAulTY": input("Oh, can you tell me what happend?\n>>>")
 e7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1510,6 +1930,8 @@ if e7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif e7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif e7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif e7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif e7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif e7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAuLty": input("Oh, can you tell me what happend?\n>>>")
 f7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1517,6 +1939,8 @@ if f7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif f7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif f7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif f7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif f7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif f7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAuLtY": input("Oh, can you tell me what happend?\n>>>")
 g7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1524,6 +1948,8 @@ if g7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif g7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif g7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif g7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif g7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif g7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAuLTy": input("Oh, can you tell me what happend?\n>>>")
 h7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1531,6 +1957,8 @@ if h7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif h7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif h7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif h7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif h7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif h7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAuLTY": input("Oh, can you tell me what happend?\n>>>")
 i7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1538,6 +1966,8 @@ if i7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif i7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif i7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif i7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif i7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif i7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAUlty": input("Oh, can you tell me what happend?\n>>>")
 j7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1545,6 +1975,8 @@ if j7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif j7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif j7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif j7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif j7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif j7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "fAUltY": input("Oh, can you tell me what happend?\n>>>")
 k7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1552,6 +1984,8 @@ if k7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif k7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif k7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif k7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif k7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif k7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FAUlTy": input("Oh, can you tell me what happend?\n>>>")
 l7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1559,6 +1993,8 @@ if l7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif l7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif l7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif l7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif l7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif l7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FAUlTY": input("Oh, can you tell me what happend?\n>>>")
 m7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1566,6 +2002,8 @@ if m7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif m7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif m7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif m7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif m7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif m7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FAULty": input("Oh, can you tell me what happend?\n>>>")
 n7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1573,6 +2011,8 @@ if n7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif n7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif n7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif n7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif n7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif n7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FAULtY": input("Oh, can you tell me what happend?\n>>>")
 o7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1580,6 +2020,8 @@ if o7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif o7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif o7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif o7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif o7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif o7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FAULTy": input("Oh, can you tell me what happend?\n>>>")
 p7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1587,6 +2029,8 @@ if p7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif p7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif p7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif p7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif p7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif p7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
 
 elif a == "FAULTY": input("Oh, can you tell me what happend?\n>>>")
 q7 = str(input("So, what question or piece of advice would you like to ask me? Press Ctrl+C to stop...\n>>>"))
@@ -1594,6 +2038,10 @@ if q7 == "What alphabet is it?": print("alphabet is a set of letters used for wr
 elif q7 == "what alphabet is it?": print("alphabet is a set of letters used for writing a language")
 elif q7 == "What word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
 elif q7 == "what word is it?": print("word is a single unit of language that has meaning and can be spoken or written")
+elif q7 == "What lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+elif q7 == "what lol is it?": print("lol(laughing out loud) - used when you think something is very funny.")
+
+
 
 
 
